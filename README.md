@@ -11,7 +11,7 @@
 ## Preview
 
 ### 손동작 인식 애니메이션 설정
-<img width="1046" alt="캡디 메인" src="https://github.com/user-attachments/assets/ca1b718a-f452-4950-b5e0-74482a6f6654">
+<img width="598" alt="스크린샷 2024-08-14 오전 12 07 58" src="https://github.com/user-attachments/assets/57399b43-888c-4ae4-9899-7e62fd84a3c0">
 <br/>
 
 ### 모션 인식 성공
