@@ -11,11 +11,11 @@
 ## Preview
 
 ### 손동작 암호 설정
-![암호설정](https://github.com/user-attachments/assets/dacb8818-45d3-47f5-99cd-3aeecd866854)
+![암호설정](https://github.com/user-attachments/assets/e3a3f098-9c91-47aa-9c56-e2b99475dc36)
 <br/>
 
 ### 손동작 암호 설정 실패
-![암호설정실패](https://github.com/user-attachments/assets/9005501b-9b16-48be-a7c8-a15296e47f8b)
+![암호설정실패](https://github.com/user-attachments/assets/862e380a-69ad-4184-9be4-2c53e61add20)
 <br/>
 
 ### 손동작 암호 설정 성공
@@ -23,11 +23,11 @@
 <br/>
 
 ### 손동작 암호 해제 실패
-![암호해제실패](https://github.com/user-attachments/assets/8c18df9d-e492-4255-8d63-e57291d2b9a9)
+![암호해제실패](https://github.com/user-attachments/assets/c9af452b-52b0-4635-bf33-0e25de4047cb)
 <br/>
 
 ### 손동작 암호 해제 성공
-![암호해제성공](https://github.com/user-attachments/assets/b38d4979-8019-4a65-80d9-9f0ce557488c)
+![암호해제성공](https://github.com/user-attachments/assets/0ae5446b-49ab-429e-9e05-fe3329d3e067)
 <br/>
 
 ## Development_Skills
