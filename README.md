@@ -8,7 +8,7 @@
 
 <img width="1046" alt="캡디 메인" src="https://github.com/user-attachments/assets/ca1b718a-f452-4950-b5e0-74482a6f6654">
 
-## Preview
+## Preview (GIF 로딩이 걸릴 수 있으니 기다려 주시면 감사하겠습니다!)
 
 ### 손동작 암호 설정
 ![암호설정](https://github.com/user-attachments/assets/e3a3f098-9c91-47aa-9c56-e2b99475dc36)
