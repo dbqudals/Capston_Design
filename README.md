@@ -11,11 +11,7 @@
 ## Preview
 
 ### 손동작 인식 애니메이션 설정
-![image](https://github.com/dbqudals/Capston_Design/assets/117886852/67fa607a-527e-4cac-9050-964b837e9433)
-<br>
-![image](https://github.com/dbqudals/Capston_Design/assets/117886852/9eb8c3dd-f891-4246-bd1d-05507579502d)
-<br>
-![image](https://github.com/dbqudals/Capston_Design/assets/117886852/dac76658-70f6-4530-9220-b3673fa7bf9c)
+
 
 ### 모션 인식 성공
 [![Video Label](http://img.youtube.com/vi/FxWXDx1QPDk/0.jpg)](https://youtu.be/FxWXDx1QPDk)
