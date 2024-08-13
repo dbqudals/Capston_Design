@@ -10,14 +10,24 @@
 
 ## Preview
 
-### 손동작 인식 애니메이션 설정
-<img width="598" alt="스크린샷 2024-08-14 오전 12 07 58" src="https://github.com/user-attachments/assets/57399b43-888c-4ae4-9899-7e62fd84a3c0">
+### 손동작 암호 설정
+![암호설정](https://github.com/user-attachments/assets/dacb8818-45d3-47f5-99cd-3aeecd866854)
 <br/>
 
-### 모션 인식 성공
+### 손동작 암호 설정 실패
+![암호설정실패](https://github.com/user-attachments/assets/9005501b-9b16-48be-a7c8-a15296e47f8b)
 <br/>
 
-### 모션 인식 실패
+### 손동작 암호 설정 성공
+![암호설정성공](https://github.com/user-attachments/assets/c653bf89-3db2-4ea4-9aa5-fb71462e961c)
+<br/>
+
+### 손동작 암호 해제 실패
+![암호해제실패](https://github.com/user-attachments/assets/8c18df9d-e492-4255-8d63-e57291d2b9a9)
+<br/>
+
+### 손동작 암호 해제 성공
+![암호해제성공](https://github.com/user-attachments/assets/b38d4979-8019-4a65-80d9-9f0ce557488c)
 <br/>
 
 ## Development_Skills
