@@ -6,19 +6,18 @@
 ## 프로젝트 개요
 스마트폰에 저장된 전자 증명서 및 전자 문서의 보편화에 따라, 중요 문서의 보안을 강화하기 위해 얼굴 인식과 손동작 인식을 활용한 2단계 인증 서비스를 제안했습니다. 이 서비스는 스마트폰의 얼굴 인식 기능과 웹캠을 통한 손동작 인식을 결합하여 문서에 대한 보안을 한층 더 강화합니다.
 
-![image](https://github.com/user-attachments/assets/d79526d3-cf5e-4a43-a142-0fbdef4162c2)
+<img width="1046" alt="캡디 메인" src="https://github.com/user-attachments/assets/ca1b718a-f452-4950-b5e0-74482a6f6654">
 
 ## Preview
 
 ### 손동작 인식 애니메이션 설정
-
+<img width="1046" alt="캡디 메인" src="https://github.com/user-attachments/assets/ca1b718a-f452-4950-b5e0-74482a6f6654">
+<br/>
 
 ### 모션 인식 성공
-[![Video Label](http://img.youtube.com/vi/FxWXDx1QPDk/0.jpg)](https://youtu.be/FxWXDx1QPDk)
 <br/>
 
 ### 모션 인식 실패
-[![Video Label](http://img.youtube.com/vi/FxWXDx1QPDk/0.jpg)](https://youtu.be/FxWXDx1QPDk)
 <br/>
 
 ## Development_Skills
@@ -57,7 +56,7 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>
 
 ## Architecture
-![아키텍처 1](https://github.com/user-attachments/assets/aeb1bb27-b83e-46b0-acad-1c70e444980a)
+<img width="946" alt="아키텍처" src="https://github.com/user-attachments/assets/e03a3355-f992-4c6d-b5e2-25901b4d3851">
 
 <br />
 
